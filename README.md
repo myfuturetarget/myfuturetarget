@@ -1,7 +1,7 @@
 ![Client satisfaction is my goal.](https://media.licdn.com/dms/image/D5616AQHB7jWkRluDoQ/profile-displaybackgroundimage-shrink_350_1400/0/1678638951692?e=1697673600&v=beta&t=Z7oyzYM_umy1R5VfPWSnbMpzLQlFoqrtzMhLtVQFJJc)
 
 ### Hi there 👋
-## I am a Web developer
+## I am Web developer
 ### Client satisfaction is my goal.
 
 
