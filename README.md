@@ -1,8 +1,8 @@
 ![Client satisfaction is my goal.](https://media.licdn.com/dms/image/D5616AQHB7jWkRluDoQ/profile-displaybackgroundimage-shrink_350_1400/0/1678638951692?e=1697673600&v=beta&t=Z7oyzYM_umy1R5VfPWSnbMpzLQlFoqrtzMhLtVQFJJc)
 
-#### Hi there 👋
-### I am a Web developer
-##### Client satisfaction is my goal.
+### Hi there 👋
+## I am a Web developer
+### Client satisfaction is my goal.
 
 
 Don't waste your previous time to wrong way. Web developer! Now learning JavaScript. Client satisfaction is my goal.
